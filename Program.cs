@@ -3,3 +3,6 @@ Console.WriteLine("Dette er en test til gitHub");
 
 
 Console.WriteLine("Så kommer der en ny kode");
+
+
+Console.WriteLine("Så kom der en ny kode");
